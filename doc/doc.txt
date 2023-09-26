@@ -3,7 +3,8 @@ Video
 =====
 https://youtu.be/rHux0gMZ3Eg
 
-editar variavem ambiente acrescentar:
+You need to edit environment variables (It´ll depend the place where you installed your python)
+===================================== Example
 C:\Users\Transdesk\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts
 
 Read this article

@@ -1,0 +1,29 @@
+
+Video 
+=====
+https://youtu.be/rHux0gMZ3Eg
+
+editar variavem ambiente acrescentar:
+C:\Users\Transdesk\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\Scripts
+
+Read this article
+https://djangoforbeginners.com/hello-world/
+
+Preparation
+===========
+pip install pipenv
+pipenv install django
+pipenv shell 
+django-admin startproject nomeproject .  (ponto no final para não criar subpasta)
+python manage.py
+python manage.py runserver
+python manage.py migrate
+python manage.py startapp pages
+
+
+VsCode - Extension
+==================
+Python IntelliSense
+
+
+
